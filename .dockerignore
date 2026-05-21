@@ -1,0 +1,4 @@
+.git
+.mvn/repository
+.mvn/wrapper/dists
+target
